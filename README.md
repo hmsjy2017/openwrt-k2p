@@ -18,6 +18,6 @@
 
 ## 关于`breed`
 
-[AR/QCA/MTK Breed，功能强大的多线程 Bootloader](https://www.right.com.cn/forum/thread-161906-1-1.html)
+介绍：[AR/QCA/MTK Breed，功能强大的多线程 Bootloader](https://www.right.com.cn/forum/thread-161906-1-1.html)
 
 下载地址：https://breed.hackpascal.net/
