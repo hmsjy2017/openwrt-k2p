@@ -15,3 +15,9 @@
 `opboot`先刷`initramfs-kernel`，开机后再从系统里刷`squashfs-sysupgrade`。
 
 注：上面的`squashfs-sysupgrade`是指`openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin`，`initramfs-kernel`是指`openwrt-ramips-mt7621-phicomm_k2p-initramfs-kernel.bin`。
+
+## 关于`breed`
+
+[AR/QCA/MTK Breed，功能强大的多线程 Bootloader](https://www.right.com.cn/forum/thread-161906-1-1.html)
+
+下载地址：https://breed.hackpascal.net/
