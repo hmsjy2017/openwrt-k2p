@@ -9,4 +9,5 @@
 ## 关于固件的刷写
 
 `breed`直接刷`squashfs-sysupgrade`
+
 `opboot`先刷`initramfs-kernel`，开机后再从系统里刷`squashfs-sysupgrade`。
